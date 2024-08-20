@@ -1,0 +1,7 @@
+Site Title: Hello World Wordpress
+Username: adminfarazhashmi
+Password: (2)FG!WITLgA^jPIzq
+Email Address: developerfaraz@yahoo.com
+Official URL: http://helloworld:55000/
+Login URL: http://helloworld:55000/wp-login.php
+
